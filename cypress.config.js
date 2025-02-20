@@ -17,7 +17,7 @@ module.exports = defineConfig({
     viewportHeight: 1080,
     viewportWidth: 1920,
   },
-  reporter: 'mochawesome',
+  reporter: 'cypress-multi-reporters',
   reporterOptions: {
     reportDir: 'cypress/results',
     configFile: 'reporter-config.json',

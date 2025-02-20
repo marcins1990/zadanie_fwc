@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<testsuites>
+<testsuite name="Root Suite" timestamp="2025-02-20T19:00:51" tests="0" file="cypress\e2e\rekrutacja\task1_login_test.cy.js" time="0.000" failures="0"></testsuite>
+<testsuite name="Loggin to account" timestamp="2025-02-20T19:00:51" tests="1" time="15.353" failures="0">
+  
+  <testcase name="Loggin to account Logging in with valid credentials and verifying that the login was successful." time="12.553" classname="Logging in with valid credentials and verifying that the login was successful."></testcase>
+  
+</testsuite>
+
+<testsuite name="Root Suite" timestamp="2025-02-20T19:01:25" tests="0" file="cypress\e2e\rekrutacja\task3_cart_test.cy.js" time="0.000" failures="0"></testsuite>
+<testsuite name="Cart verification" timestamp="2025-02-20T19:01:25" tests="1" time="20.273" failures="0">
+  
+  <testcase name="Cart verification Adding any product to the cart, go to the shopping cart, checking the current amount to be paid &gt; changing the quantity and see if the amount has changed." time="17.746" classname="Adding any product to the cart, go to the shopping cart, checking the current amount to be paid &gt; changing the quantity and see if the amount has changed."></testcase>
+  
+</testsuite>
+
+<testsuite name="Root Suite" timestamp="2025-02-20T19:01:10" tests="0" file="cypress\e2e\rekrutacja\task2_mini_cart.cy.js" time="0.000" failures="0"></testsuite>
+<testsuite name="Mini-cart verification" timestamp="2025-02-20T19:01:10" tests="1" time="12.227" failures="0">
+  
+  <testcase name="Mini-cart verification Adding product to the basket, and verifing mini-cart" time="9.577" classname="Adding product to the basket, and verifing mini-cart"></testcase>
+  
+</testsuite>
+
+</testsuites>

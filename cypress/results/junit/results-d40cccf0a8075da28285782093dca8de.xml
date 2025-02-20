@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.236" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-02-20T19:01:10" tests="0" file="cypress\e2e\rekrutacja\task2_mini_cart.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Mini-cart verification" timestamp="2025-02-20T19:01:10" tests="1" time="12.227" failures="0">
+    <testcase name="Mini-cart verification Adding product to the basket, and verifing mini-cart" time="9.577" classname="Adding product to the basket, and verifing mini-cart">
+    </testcase>
+  </testsuite>
+</testsuites>

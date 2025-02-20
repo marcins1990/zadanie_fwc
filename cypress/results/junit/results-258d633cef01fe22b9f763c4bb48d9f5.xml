@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="20.283" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-02-20T19:01:25" tests="0" file="cypress\e2e\rekrutacja\task3_cart_test.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Cart verification" timestamp="2025-02-20T19:01:25" tests="1" time="20.273" failures="0">
+    <testcase name="Cart verification Adding any product to the cart, go to the shopping cart, checking the current amount to be paid &gt; changing the quantity and see if the amount has changed." time="17.746" classname="Adding any product to the cart, go to the shopping cart, checking the current amount to be paid &gt; changing the quantity and see if the amount has changed.">
+    </testcase>
+  </testsuite>
+</testsuites>
